@@ -1,0 +1,27 @@
+#pocetna{ 
+    background-image: url('../images/p.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 600px;
+}
+h1{
+    text-align: center;
+    font-size: 300px; /*kad budu veca slova videce se lepo sta pise samo sto mi nije jasno zasto nece da ga poveca*/
+    color: white;
+    padding-top: 150px;
+    font-family: 'Nothing You Could Do', cursive;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Nothing You Could Do', cursive;
+
+}
+#dugme{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+#sredinarez{
+    background-color: blueviolet;
+}
